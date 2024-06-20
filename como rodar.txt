@@ -1,0 +1,10 @@
+BIBLIOTECA:
+
+npm init 
+npm install express --save
+npm install ejs --save
+npm install socket.io --save
+
+PARA RODAR: 
+
+nodemon index.js
